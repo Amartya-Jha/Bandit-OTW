@@ -119,3 +119,11 @@ Pass for lvl 12 is: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv.
 ## Level 12
 
 Given: The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work using mkdir. For example: mkdir /tmp/myname123. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+
+`mv` : move
+
+`rm`: remove
+
+check the data type, change extension to that data type and then decompress using respective tool. Repeat till you get the pass.
+
+pass for lvl 13: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
